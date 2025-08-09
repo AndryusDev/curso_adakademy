@@ -1,0 +1,20 @@
+header h1 {
+    color: blue;
+
+}
+
+h2 {
+    color: green;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.texto1 {
+    color: brown;
+}
+
+#texto2 {
+    color: purple;
+}
